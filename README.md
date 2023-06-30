@@ -13,11 +13,11 @@ The operational level analysis provides information that aids day-to-day operati
 
 The executive-level analysis focuses on providing a broader perspective of the business by presenting sales data categorized by various dimensions. It includes the following functionalities:
 
-District Sales: Queries have been designed to showcase sales figures for each district. This allows for a better understanding of regional performance and helps identify potential growth or improvement areas.
+- District Sales: Queries have been designed to showcase sales figures for each district. This allows for a better understanding of regional performance and helps identify potential growth or improvement areas.
 
-Sales by Staff and Month: The database queries provide insights into sales performance based on staff members and months. This information enables tracking of individual and team contributions and helps identify trends and patterns over time.
+- Sales by Staff and Month: The database queries provide insights into sales performance based on staff members and months. This information enables tracking of individual and team contributions and helps identify trends and patterns over time.
 
-Film Analysis: Detailed queries have been developed to analyze film-related data. This includes identifying the films that generate the highest sales based on actor and rating, determining the number of rentals grouped by language, and evaluating special features to identify movies with rental rates above the average. These insights aid in determining the demand for different types of films and optimizing the inventory selection.
+- Film Analysis: Detailed queries have been developed to analyze film-related data. This includes identifying the films that generate the highest sales based on actor and rating, determining the number of rentals grouped by language, and evaluating special features to identify movies with rental rates above the average. These insights aid in determining the demand for different types of films and optimizing the inventory selection.
 
 ## Revenue Optimization
 To optimize revenue, an assumption has been made regarding the depreciation recall period, which is set at 10 times after rental. By analyzing the data, the most profitable category of movies has been identified, providing guidance for revenue optimization strategies.
