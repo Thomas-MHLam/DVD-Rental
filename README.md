@@ -1,4 +1,4 @@
-#### Database Analysis and Optimization
+## Database Analysis and Optimization
 
 This repository contains a collection of queries and analyses designed to extract valuable insights from a database for both operational and executive-level decision-making. The aim of this project is to help manage store operations efficiently and optimize revenue by identifying key performance indicators and areas of improvement.
 
